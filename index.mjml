@@ -1,0 +1,516 @@
+<mjml lang="en">
+
+  <mj-head>
+
+   <mj-attributes>
+  <mj-all font-family="Helvetica, sans-serif">
+  <mj-section padding="0">
+  
+  </mj-attributes>
+  <mj-title>Human Rights</mj-title>
+
+    <mj-style> *{ box-sizing: border-box; } 
+    @media (max-width: 480){
+      .row-image{
+      max-width: 100% !important;
+      
+    }
+    
+    }
+
+    </mj-style>
+
+    <mj-style inline="inline"> 
+    .link-color 
+    { color: #1e86e8; 
+      text-decoration: none;
+    } 
+    
+    .link__color-line{
+      color: #1e86e8; 
+    }
+
+    .footer-link{
+      color: #c7c3c3;
+     text-decoration: none;
+
+    }
+    
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#eeeeee">  
+
+  <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      Rohingya Refugees Face Deepening Peril;&nbsp;Police officers stand guard in front of Rohingya 
+      refugees at Kutupalong camp in Cox's Bazar
+      </div>
+ 
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;">
+      &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+      </div>
+      </mj-raw>
+
+
+    <mj-section background-color="#eeeeee" padding-bottom="0">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#666869" padding-top="5px"
+        padding-bottom="2px">
+          Having trouble viewing the email?
+          <a href="https://view.takeaction.hrw.org/?qs=64be6b6ad432a428bc0ed1950dd7db147a39ab0f04bc900615ded6292499cfea945e77eef331e8fe6edc906682151716ff43ac9fd0a781ae4a05b81170114bd6e8714a2a63e75078"
+          class="link__color-line"  target="_blank">Click here</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white" padding-top="0"
+     padding="0" padding-bottom="0">
+      <mj-group>
+        <mj-column>
+          <mj-text font-size="13px" color="#666869"
+          padding-top="20px"> January 20, 2023 </mj-text>
+        </mj-column>
+
+        <mj-column>
+          <mj-image
+            src="https://i.postimg.cc/X7fR3Q0L/human-rights-blue.png"
+            alt="human-rights-logo"
+            width="80px"
+            align="right"
+            padding-right="0"
+            padding-top="0"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+      <mj-raw>
+      <!--end of header-->
+      </mj-raw>
+
+
+      <mj-section padding-top="0" background-color="#ffffff">
+      <mj-column>
+      <mj-image src="https://i.postimg.cc/sxFLCZ6b/refugees.jpg"
+       alt="refugees-logo"
+      padding-left="0" 
+      padding-right="0">
+      </mj-image>
+
+      <mj-text color="#666869" font-size="13px" line-height="17px"
+      padding-top="0">Police officers stand guard in front of Rohingya 
+      refugees at Kutupalong camp in Cox's Bazar, Bangladesh, 
+      September 30, 2021. © 2021 Mushfiqul Alam/NurPhoto via AP
+      </mj-text>
+      </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0"
+      >
+      <mj-column>
+      <mj-text font-size="45px" font-weight="600" line-height="55px">
+        Bangladesh Police Extort, Harass Rohingya Refugees
+      </mj-text>
+      <mj-text color="#666869"  line-height="22px"  font-size="18px"
+      padding-bottom="20px">
+        Imagine that angry military men burned down your village and 
+        forced you to flee your country. You seek shelter in an 
+        overcrowded refugee camp across the border and spend years 
+        trying to keep your family safe and eke out a living, while 
+        threats from armed groups and other dangers mount.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px"  font-size="18px"
+      padding-bottom="20px">
+       Now imagine that the police meant to protect you are instead 
+       piling on the abuse.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px"  font-size="18px"
+      padding-bottom="20px">
+       For many <a href="https://www.hrw.org/tag/rohingya" class="link-color">Rohingya</a> living 
+       in refugee camps in Cox's Bazaar, 
+       <a href="https://www.hrw.org/asia/bangladesh" class="link-color" target="_blank">
+       Bangladesh</a>, this is a 
+       daily reality. A 
+       <a href="https://www.hrw.org/news/2023/01/17/bangladesh-rampant-police-abuse-rohingya-refugees" 
+       class="link-color" target="_blank">new report</a> finds that 
+       members of Bangladesh's Armed Police Battalion (APBn), which 
+       oversees security in the camps, is committing extortion, 
+       arbitrary arrests, and harassment of Rohingya refugees.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px"  font-size="18px"
+      padding-bottom="20px">
+       Human Rights Watch spoke to dozens of refugees and reviewed 
+       police reports, finding among other abuses several cases of 
+       Rohingya being detained on fabricated drug charges or being 
+       framed with drugs or weapons.
+      </mj-text>
+
+      <mj-text color="#666869" line-height="22px"  font-size="18px"
+      padding-bottom="0">
+       One man, Sayed Hossein, who works as a health volunteer with an 
+       international organization, said police arrested him allegedly for 
+       a social media post he made. At the station, they demanded a bribe. 
+       When his family could not pay it, he said that officers photographed
+      him with drugs, posted the photos to social media, and detained him on
+     drug trafficking charges.
+      </mj-text>
+
+      <mj-image src="https://i.postimg.cc/dtYfWrTy/women-in-hijab.jpg" 
+       alt="woman-in-hijab"
+      href="https://www.youtube.com/watch?v=vhfb-ZsMpwg"
+      padding-top="0" target="_blank">
+      </mj-image>
+
+      <mj-text color="#666869" font-size="13px"line-height="22px" 
+      padding-top="0">
+        WATCH: No Justice, No Freedom for Rohingya  
+      </mj-text>
+
+        <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+       
+      The crackdown has compounded fear among the one million 
+      Rohingya refugees in Bangladesh, the majority of whom fled 
+      <a href="https://www.hrw.org/asia/myanmar-burma" 
+      class="link-color" target="_blank">Myanmar</a> in late 2017 after the country's military onslaught 
+      against the Rohingya, which amounted to 
+      <a href="https://www.hrw.org/news/2022/08/24/myanmar-no-justice-no-freedom-rohingya-5-years"
+       class="link-color" target="_blank">crimes against 
+      humanity</a>  and possible genocide. The police abuses have 
+      escalated amid <a href="https://www.hrw.org/news/2022/04/04/bangladesh-new-restrictions-rohingya-camps" 
+      class="link-color" target="_blank">increasingly coercive restrictions</a> by 
+      Bangladesh authorities on refugees' livelihoods, movement, 
+      and education in the camps, including 
+      <a href="https://www.hrw.org/news/2022/05/11/bangladesh-police-beating-rohingya-refugees" 
+      class="link-color" target="_blank">harassment at 
+      checkpoints</a>  and 
+      <a href="https://www.hrw.org/news/2022/03/21/bangladesh-officials-threaten-rohingya-setting-schools" 
+      class="link-color" target="_blank">closing community schools</a> and markets. 
+      They also face threats of 
+      <a href="https://www.hrw.org/news/2022/03/21/bangladesh-officials-threaten-rohingya-setting-schools" 
+      class="link-color" target="_blank">violence</a> from armed gangs in the 
+      camps.
+      </mj-text>
+
+        <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+       
+      Sadly, the police abuse is now familiar. “In Myanmar, the 
+      security forces used to charge us money for anything, any 
+      time they wanted,” one man said. “Now in the camps, 
+      Bangladesh law enforcement is doing the same thing.”
+      </mj-text>
+
+        <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px" font-weight="600">
+      <a href="https://www.hrw.org/news/2023/01/17/bangladesh-rampant-police-abuse-rohingya-refugees" 
+      class="link__color-line" target="_blank"> Read More</a>
+      </mj-text>
+
+        <mj-text font-size="45px" font-weight="600" line-height="45px">
+      Around the World
+      </mj-text> 
+      
+      <mj-divider border-width="4px" border-style="solid" border-color="#000" 
+      padding-top="0"/>
+      </mj-column>
+      </mj-section> 
+      
+      <mj-raw>
+      <!--end of around the world-->
+      </mj-raw>
+
+      <mj-section background-color="#ffffff" padding-top="0" padding-bottom="10px"
+      direction="rtl" background-repeat="repeat" text-align="center">
+      
+       <mj-column>
+      <mj-image align="center" padding="10px 25px" padding-left="0"
+      src="https://i.postimg.cc/XYnTvdjb/man-and-woman-sitting-on-boat.jpg"
+      alt="man-and-woman-sitting-on-boat"
+      padding-top="0" target="blank" css-class="row-image">
+      
+      </mj-image>
+      </mj-column>
+
+      <mj-column>
+      <mj-text color="#000" line-height="25px" font-size="20px"
+      padding-top="0" padding-bottom="20px" font-weight="600">
+      Sea Rescuers Still Waiting for Justice in Greece
+      </mj-text>
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+      Sarah Mardini and Sean Binder were thrown in jail on baseless charges 
+      for helping rescue migrants and asylum seekers in the Mediterranean 
+      Sea in August 2018. Over four years later, they and 22 other 
+      defendants finally had their day in court.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+       padding-bottom="30px" font-weight="600">
+      <a href="https://www.hrw.org/news/2023/01/16/sea-rescuers-still-waiting-justice-greece" 
+      class="link__color-line" target="_blank"> Read More</a>
+      </mj-text> 
+      </mj-column>
+
+
+     
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column> 
+      <mj-divider border-width="1px" border-style="solid" border-color="#999999" 
+      padding-top="0"/>
+      </mj-column>
+      </mj-section> 
+      <mj-raw>
+      <!--end first row-->
+      </mj-raw>
+      
+      
+       <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="10px"
+        direction="rtl" background-repeat="repeat" text-align="center">
+
+         <mj-column>
+      <mj-image align="center" padding="10px 25px" padding-left="0"
+       src="https://i.postimg.cc/rpPbgHSV/man-farming.jpg"
+       alt="man-farming"
+      padding-top="0" target="blank" css-class="row-image">
+      
+      </mj-image>
+      </mj-column>
+
+      <mj-column>
+      <mj-text color="#000" line-height="25px" font-size="20px"
+      padding-top="0" padding-bottom="20px" font-weight="600">
+      Major Victory for Immigrant Workers in the US
+      </mj-text>
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+      Good news! The United States Department of Homeland Security announced
+      new guidance last week that allows migrant and immigrant workers who 
+      experience or witness workplace labor or civil rights violations to 
+      receive temporary protection against deportation and access to work 
+      authorization.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+       padding-bottom="30px" font-weight="600">
+      <a href="https://www.hrw.org/news/2023/01/18/major-victory-immigrant-workers-us" 
+      class="link__color-line" target="_blank"> Read More</a>
+      </mj-text> 
+      </mj-column>
+
+
+  
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column> 
+      <mj-divider border-width="1px" border-style="solid" border-color="#999999" 
+      padding-top="0"/>
+      </mj-column>
+      </mj-section>
+      <mj-raw>
+      <!--end second row-->
+      </mj-raw>
+      
+
+
+       <mj-section background-color="#ffffff" padding-top="15px" padding-bottom="10px"
+       direction="rtl" background-repeat="repeat" text-align="center">
+
+      <mj-column>
+      <mj-image align="center" padding="10px 25px" padding-left="0"
+       src="https://i.postimg.cc/vmBkryx2/old-man-in-suit.jpg" alt="old-man-in-suit"
+      padding-top="0" target="blank" css-class="row-image">
+      
+      </mj-image>
+      </mj-column>
+
+      <mj-column>
+      <mj-text color="#000" line-height="22px" font-size="20px"
+      padding-top="0" padding-bottom="20px" font-weight="600">
+      Prominent Rights Lawyer Gunned Down in Pakistan Court
+      </mj-text>
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+      Respected lawyer and human rights defender Abdul Latif Afridi was shot
+       and killed inside the Peshawar High Court on Monday. Afridi was one of
+        Pakistan's most courageous and outspoken voices for rule of law, 
+        democracy, and human rights over several decades.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+       padding-bottom="30px" font-weight="600">
+      <a href="https://www.hrw.org/news/2023/01/17/prominent-pakistan-rights-lawyer-gunned-down-court" 
+      class="link__color-line" target="_blank"> Read More</a>
+      </mj-text> 
+      </mj-column>
+
+
+     
+      </mj-section>
+      
+       <mj-raw>
+      <!--end third row-->
+      </mj-raw>
+
+      <mj-section background-color="#ffffff" padding-top="0">
+      <mj-column> 
+      <mj-text  font-size="45px" font-weight="600" line-height="45px">
+      World Report 2023
+      </mj-text>
+      
+       <mj-divider border-width="4px" border-style="solid" border-color="#000" 
+      padding-top="0"/>
+      
+      <mj-image src="https://i.postimg.cc/jSqFTTcq/world-report-2023.jpg" alt="world-report-2023-human-rights"
+      padding-top="25px">
+      </mj-image>
+      
+      <mj-text color="#000" line-height="22px" font-size="20px"
+      padding-top="15px" padding-bottom="20px" font-weight="600">
+      
+        Download Your Copy for Free
+      </mj-text>
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="0" padding-bottom="20px">
+      Last week, we released our annual World Report, covering the human 
+      rights situation in nearly 100 countries. How did your country do? 
+      Download a free copy of the 712-page World Report here to find out.
+      </mj-text>
+
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+       padding-bottom="30px" font-weight="600">
+      <a href="https://www.hrw.org/sites/default/files/media_2023/01/World_Report_2023_WEBSPREADS_0.pdf"
+       class="link__color-line" target="_blank">Get It Here</a>
+      </mj-text>  
+      
+      <mj-text  font-size="45px" font-weight="600" line-height="45px">
+     Twitter Spaces
+      </mj-text>
+      
+       <mj-divider border-width="4px" border-style="solid" border-color="#000" 
+      padding-top="0"/>
+      
+       <mj-text color="#000" line-height="22px" font-size="20px"
+      padding-top="45px" padding-bottom="20px" font-weight="600">
+      
+        Download Your Copy for Free
+      </mj-text>
+      
+      <mj-text color="#666869"  line-height="22px" font-size="18px"
+      padding-top="10px" padding-bottom="20px">
+      Our weekly Twitter Spaces series is back for 2023. This week, we 
+      discussed how EU operations in the Mediterranean are prioritizing 
+      forcing asylum seekers back across the sea instead of considering 
+      their safety and protection.
+      </mj-text>
+
+    <mj-text color="#666869"  line-height="22px" font-size="18px"
+       padding-bottom="30px" font-weight="600">
+      <a href="https://twitter.com/hrw/status/1616163585230610432" 
+      class="link__color-line"target="_blank">Listen Here</a>
+      </mj-text>
+      </mj-column>
+      </mj-section>
+      
+      <mj-raw>
+      <!--footer-->
+      </mj-raw>
+
+
+      
+     <mj-section background-color="#1c1b1b" padding-top="25px">
+     <mj-column>
+     <mj-text color="#c7c3c3"  line-height="22px" font-size="15px" align="center"
+      padding-top="10px" font-weight="700" align="center" padding-bottom="0">
+     Thanks for your support!
+     </mj-text>
+
+     <mj-image padding-top="0"  padding-bottom="0" align="center"
+     src="https://i.postimg.cc/kMbrY71k/donate-today.jpg" alt="donate-today-button" width="180px" target="_blank"
+     href="https://donate.hrw.org/page/107245/donate/1?ea.tracking.id=EA2022MMwn">
+      
+   
+     </mj-image>
+     </mj-column>
+     </mj-section>
+      
+     <mj-section background-color="#1c1b1b" padding-top="0">
+     <mj-column>
+     <mj-text color="#c7c3c3"  line-height="22px" font-size="15px"
+      padding-top="10px" font-weight="700" align="center" padding-bottom="0">
+     Follow us on:
+     </mj-text>
+
+    <mj-social  icon-size="40px" mode="horizontal" padding-top="0" padding="20px"
+    padding-bottom="0">
+          <mj-social-element name="facebook" 
+          src="https://i.postimg.cc/9F56vssz/facebook.png" alt="facebook-icon" href="https://www.facebook.com/HumanRightsWatch" 
+          background-color="#1c1b1b" color="#ffffff">
+            
+          </mj-social-element>
+          <mj-social-element name="twitter" href="https://twitter.com/hrw"
+          background-color="#1c1b1b" color="#ffffff" src="https://i.postimg.cc/WprK6XtV/twitter.png"
+          alt="twitter-icon">
+           
+          </mj-social-element>
+          <mj-social-element  name="instragram" href="https://twitter.com/hrw" background-color="#1c1b1b"
+          src="https://i.postimg.cc/sgKbGxxZ/instagram.png"alt="instagram-icon"  color="#ffffff">
+           
+          </mj-social-element>
+          <mj-social-element  name="tiktok" href="https://twitter.com/hrw" background-color="#1c1b1b"
+          src="https://i.postimg.cc/vTWNYHCT/tik-tok.png" alt="tiktok-icon"  color="#ffffff">
+          
+          </mj-social-element>
+          <mj-social-element  name="youtube" href="https://www.youtube.com/user/HumanRightsWatch"
+          background-color="#1c1b1b" color="#ffffff"
+          src="https://i.postimg.cc/Ghx56tkS/youtube.png" alt="youtube-icon">
+            
+          </mj-social-element>
+        </mj-social>
+     </mj-column>
+     </mj-section> 
+     
+     
+      <mj-section background-color="#1c1b1b" padding-top="0" padding-bottom="0">
+      <mj-column>
+      <mj-text padding-bottom="0">
+      <p style="color: #c7c3c3; text-align: center; font-size: 15px;
+      font-weight:700; padding-bottom: 0;">
+      <a href="https://www.hrw.org/" class="footer-link"> Home</a>&nbsp; &nbsp;  |&nbsp; &nbsp; 
+       <a href="https://www.hrw.org/take-action" class="footer-link"> Take Action</a> &nbsp; &nbsp; |
+      &nbsp; &nbsp;<a href="https://www.hrw.org/privacy-policy" class="footer-link"> Privacy</a> &nbsp; &nbsp;  |&nbsp; &nbsp;  
+      <a href="https://cloud.takeaction.hrw.org/preferences?qs=a5a042ac7fa85b211a678ff0f0fbe13b160777fc42f02a10ee2ad18f0c6b08503b0c715e3ddb1541c8045b4ef3eafe717f1673a9ee0870843a6e87429b5fb8aa59ba600088aabe51a0e68eaa9d75cfe05eee18aed751e535" 
+      class="footer-link">Unsubscribe </a>
+      </p>
+      </mj-text>
+      </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#1c1b1b" padding-top="0" >
+      <mj-column>
+      <mj-text padding-top="0">
+      <p style="color: #c7c3c3; text-align: center; font-size: 13px; line-height: 30px;">
+      Human Rights Watch&nbsp;   |&nbsp; 
+      350 Fifth Avenue, 34th Floor &nbsp;  |
+      &nbsp;New York, NY 10118-3299 USA &nbsp;  | &nbsp;
+       1.212.290.4700 
+      </p>
+      </mj-text>
+      </mj-column>
+      </mj-section>
+
+
+      
+
+
+     
+  </mj-body>
+</mjml>
